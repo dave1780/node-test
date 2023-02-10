@@ -10,4 +10,4 @@ dns.resolve("www.w3schools.com","A" ,(err,data)=>{
   console.log(data)
 
 })
-
+console.log("express ")
