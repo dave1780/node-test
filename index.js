@@ -1,3 +1,2 @@
-// run `node index.js` in the terminal
-import Nav from "./Nav.js"
-Nav.getData
+import {getData} from "./Nav.js"
+getData()
