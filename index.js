@@ -1,2 +1,2 @@
-import {getData} from "./Nav.js"
-getData()
+import {funk} from "./Exp.js"
+funk.getExp()
