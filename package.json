@@ -1,18 +1,6 @@
 {
-  "name": "node-starter",
-  "type": "module",
-  "version": "0.0.0",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "name": "node-mgdytf",
   "dependencies": {
-    "Express": "^3.0.1",
-    "mongosh": "^1.7.0",
-    "n": "^9.0.1",
-    "node": "^18.14.0",
-    "nodemon": "^2.0.20",
-    "npm": "^9.4.2",
-    "runscript": "^1.5.3",
     "yarn": "^1.22.19"
   }
 }
